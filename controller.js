@@ -29,7 +29,7 @@ let date = ("0" + d.getDate()).slice(-2);
 // date time in YYYY-MM-DD format
 //let date_time = year + "-" + month + "-" + date;
 let today = month + "/" + date + "/" + year; // "11/13/2022"
-console.log(today);
+//console.log(today);
 
 
 /*
@@ -77,7 +77,7 @@ let end_day = n_mm +'/'+ n_dd +'/'+ n_yyyy;   //  -> May 19, 2022
 //console.log(end_day);
 */
 //const data = require("./data");
-//const data = require("./data_daily_reading_audio");
+//const data = require("./data_daily_reading_audio_2023");
 const data = require("./data_temp");
 
 /*

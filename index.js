@@ -8,7 +8,7 @@ const server = http.createServer(async (req, res) => {
         // / : GET 
     if (req.url === "/" && req.method === "GET") {
         // set the status code, and content-type
-           res.writeHead(200, { "Content-Type": "application/json",
+           res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
            "Access-Control-Allow-Origin": "*" });
            res.end(JSON.stringify({ message: "App is active! 🚀" }));
        }
@@ -17,7 +17,7 @@ const server = http.createServer(async (req, res) => {
         // get the data.
         const allData = await new AppData().getAllData();
         // set the status code, and content-type
-        res.writeHead(200, { "Content-Type": "application/json",
+        res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*" });
         // send the data
         res.end(JSON.stringify(allData));
@@ -31,7 +31,7 @@ const server = http.createServer(async (req, res) => {
              // get today data.
             const todayData = await new AppData().getTodayData();
             // set the status code, and content-type
-            res.writeHead(200, { "Content-Type": "application/json",
+            res.writeHead(200, { "Content-Type": "application/json; charset=utf-8",
             "Access-Control-Allow-Origin": "*"  });
             // send the data
             res.end(JSON.stringify(todayData));
@@ -124,7 +124,7 @@ const server = http.createServer(async (req, res) => {
 
     // No route present
     else {
-        res.writeHead(404, { "Content-Type": "application/json",
+        res.writeHead(404, { "Content-Type": "application/json; charset=utf-8",
         "Access-Control-Allow-Origin": "*"  });
         res.end(JSON.stringify({ message: "Route not found 💣" }));
     }
