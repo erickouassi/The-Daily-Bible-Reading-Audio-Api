@@ -1,4 +1,4 @@
-// Logic behind the functionalities
+/*// Logic behind the functionalities
 //import jstz from 'jstz';
 var jstz = require('jstz');
 const timezone = jstz.determine();
@@ -8,6 +8,16 @@ var localTime = jstz.determine().name();
 
 // current datetime string in America/Chicago timezone
 let local_datetime_str = new Date().toLocaleString("en-US", { timeZone: localTime });
+
+// create new Date object
+//let date_local = new Date(local_datetime_str);
+let d = new Date(local_datetime_str);
+*/
+// Logic behind the functionalities
+var serverTime = "America/New_York";  // America/New_York /
+
+// current datetime string inAmerica/New_York timezone
+let local_datetime_str = new Date().toLocaleString("en-US", { timeZone: serverTime });
 
 // create new Date object
 //let date_local = new Date(local_datetime_str);
