@@ -31,7 +31,8 @@ let monthTxt = allMonths[d.getMonth()];  // May
 let year = d.getFullYear();
 
 // month as (MM) format
-let month = ("0" + (d.getMonth() + 1)).slice(-2);
+//let month = ("0" + (d.getMonth() + 1)).slice(-2);
+let month =  d.getMonth() + 1;
 
 // date as (DD) format
 //let date = ("0" + d.getDate()).slice(-2);
