@@ -34,12 +34,13 @@ let year = d.getFullYear();
 let month = ("0" + (d.getMonth() + 1)).slice(-2);
 
 // date as (DD) format
-let date = ("0" + d.getDate()).slice(-2);
+//let date = ("0" + d.getDate()).slice(-2);
+let date = d.getDate();
 
 // date time in YYYY-MM-DD format
 //let date_time = year + "-" + month + "-" + date;
 let today = month + "/" + date + "/" + year; // "11/13/2022"
-//console.log(today);
+console.log(today);
 
 
 /*
