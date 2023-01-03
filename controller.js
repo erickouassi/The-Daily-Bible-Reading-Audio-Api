@@ -1,3 +1,7 @@
+//const data = require("./data");
+const data = require("./data_daily_reading_audio_2023");
+//const data = require("./data_temp");
+
 /*// Logic behind the functionalities
 //import jstz from 'jstz';
 var jstz = require('jstz');
@@ -88,9 +92,6 @@ let n_yyyy = n.getFullYear();  // 2022
 let end_day = n_mm +'/'+ n_dd +'/'+ n_yyyy;   //  -> May 19, 2022
 //console.log(end_day);
 */
-//const data = require("./data");
-//const data = require("./data_daily_reading_audio_2023");
-const data = require("./data_temp");
 
 /*
 const index_start = data.map(i => i.fullDate).indexOf(today);
