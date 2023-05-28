@@ -1062,210 +1062,210 @@ const dailyReadingAudio = [
     "track_id": "152",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/1/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510432027-usccb-readings-daily-mass-reading-podcast-for-june-1-2023.mp3",
     "audioMP3Date": "Thursday, June 1, 2023"
   },
   {
     "track_id": "153",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/2/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510432165-usccb-readings-daily-mass-reading-podcast-for-june-2-2023.mp3",
     "audioMP3Date": "Friday, June 2, 2023"
   },
   {
     "track_id": "154",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/3/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510432297-usccb-readings-daily-mass-reading-podcast-for-june-3-2023.mp3",
     "audioMP3Date": "Saturday, June 3, 2023"
   },
   {
     "track_id": "155",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/4/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510432375-usccb-readings-daily-mass-reading-podcast-for-june-4-2023.mp3",
     "audioMP3Date": "Sunday, June 4, 2023"
   },
   {
     "track_id": "156",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/5/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510432498-usccb-readings-daily-mass-reading-podcast-for-june-5-2023.mp3",
     "audioMP3Date": "Monday, June 5, 2023"
   },
   {
     "track_id": "157",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/6/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510432816-usccb-readings-daily-mass-reading-podcast-for-june-6-2023.mp3",
     "audioMP3Date": "Tuesday, June 6, 2023"
   },
   {
     "track_id": "158",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/7/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510432927-usccb-readings-daily-mass-reading-podcast-for-june-7-2023.mp3",
     "audioMP3Date": "Wednesday, June 7, 2023"
   },
   {
     "track_id": "159",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/8/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510433158-usccb-readings-daily-mass-reading-podcast-for-june-8-2023.mp3",
     "audioMP3Date": "Thursday, June 8, 2023"
   },
   {
     "track_id": "160",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/9/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510433362-usccb-readings-daily-mass-reading-podcast-for-june-9-2023.mp3",
     "audioMP3Date": "Friday, June 9, 2023"
   },
   {
     "track_id": "161",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/10/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510433590-usccb-readings-daily-mass-reading-podcast-for-june-10-2023.mp3",
     "audioMP3Date": "Saturday, June 10, 2023"
   },
   {
     "track_id": "162",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/11/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510433839-usccb-readings-daily-mass-reading-podcast-for-june-11-2023.mp3",
     "audioMP3Date": "Sunday, June 11, 2023"
   },
   {
     "track_id": "163",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/12/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510434748-usccb-readings-daily-mass-reading-podcast-for-june-12-2023.mp3",
     "audioMP3Date": "Monday, June 12, 2023"
   },
   {
     "track_id": "164",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/13/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510435036-usccb-readings-daily-mass-reading-podcast-for-june-13-2023.mp3",
     "audioMP3Date": "Tuesday, June 13, 2023"
   },
   {
     "track_id": "165",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/14/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510435285-usccb-readings-daily-mass-reading-podcast-for-june-14-2023.mp3",
     "audioMP3Date": "Wednesday, June 14, 2023"
   },
   {
     "track_id": "166",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/15/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510435591-usccb-readings-daily-mass-reading-podcast-for-june-15-2023.mp3",
     "audioMP3Date": "Thursday, June 15, 2023"
   },
   {
     "track_id": "167",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/16/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510436980-usccb-readings-daily-mass-reading-podcast-for-june-16-2023.mp3",
     "audioMP3Date": "Friday, June 16, 2023"
   },
   {
     "track_id": "168",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/17/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510437544-usccb-readings-daily-mass-reading-podcast-for-june-17-2023.mp3",
     "audioMP3Date": "Saturday, June 17, 2023"
   },
   {
     "track_id": "169",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/18/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510437979-usccb-readings-daily-mass-reading-podcast-for-june-18-2023.mp3",
     "audioMP3Date": "Sunday, June 18, 2023"
   },
   {
     "track_id": "170",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/19/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510438240-usccb-readings-daily-mass-reading-podcast-for-june-19-2023.mp3",
     "audioMP3Date": "Monday, June 19, 2023"
   },
   {
     "track_id": "171",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/20/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510438870-usccb-readings-daily-mass-reading-podcast-for-june-20-2023.mp3",
     "audioMP3Date": "Tuesday, June 20, 2023"
   },
   {
     "track_id": "172",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/21/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510440064-usccb-readings-daily-mass-reading-podcast-for-june-21-2023.mp3",
     "audioMP3Date": "Wednesday, June 21, 2023"
   },
   {
     "track_id": "173",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/22/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510440199-usccb-readings-daily-mass-reading-podcast-for-june-22-2023.mp3",
     "audioMP3Date": "Thursday, June 22, 2023"
   },
   {
     "track_id": "174",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/23/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510440631-usccb-readings-daily-mass-reading-podcast-for-june-23-2023.mp3",
     "audioMP3Date": "Friday, June 23, 2023"
   },
   {
     "track_id": "175",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/24/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510440904-usccb-readings-daily-mass-reading-podcast-for-june-24-2023-day.mp3",
     "audioMP3Date": "Saturday, June 24, 2023"
   },
   {
     "track_id": "176",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/25/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510441108-usccb-readings-daily-mass-reading-podcast-for-june-25-2023.mp3",
     "audioMP3Date": "Sunday, June 25, 2023"
   },
   {
     "track_id": "177",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/26/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510441300-usccb-readings-daily-mass-reading-podcast-for-june-26-2023.mp3",
     "audioMP3Date": "Monday, June 26, 2023"
   },
   {
     "track_id": "178",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/27/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510441408-usccb-readings-daily-mass-reading-podcast-for-june-27-2023.mp3",
     "audioMP3Date": "Tuesday, June 27, 2023"
   },
   {
     "track_id": "179",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/28/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510441585-usccb-readings-daily-mass-reading-podcast-for-june-28-2023.mp3",
     "audioMP3Date": "Wednesday, June 28, 2023"
   },
   {
     "track_id": "180",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/29/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510442008-usccb-readings-daily-mass-reading-podcast-for-june-29-2023-day.mp3",
     "audioMP3Date": "Thursday, June 29, 2023"
   },
   {
     "track_id": "181",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "6/30/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1510442212-usccb-readings-daily-mass-reading-podcast-for-june-30-2023.mp3",
     "audioMP3Date": "Friday, June 30, 2023"
   },
   {
