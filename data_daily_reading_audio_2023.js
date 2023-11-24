@@ -2343,217 +2343,217 @@ const dailyReadingAudio = [
     "track_id": "335",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/1/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662753618-usccb-readings-daily-mass-reading-podcast-for-december-1-2023.mp3",
     "audioMP3Date": "Friday, December 1, 2023"
   },
   {
     "track_id": "336",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/2/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662753831-usccb-readings-daily-mass-reading-podcast-for-december-2-2023.mp3",
     "audioMP3Date": "Saturday, December 2, 2023"
   },
   {
     "track_id": "337",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/3/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662753948-usccb-readings-daily-mass-reading-podcast-for-december-3-2023.mp3",
     "audioMP3Date": "Sunday, December 3, 2023"
   },
   {
     "track_id": "338",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/4/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662754098-usccb-readings-daily-mass-reading-podcast-for-december-4-2023.mp3",
     "audioMP3Date": "Monday, December 4, 2023"
   },
   {
     "track_id": "339",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/5/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662754182-usccb-readings-daily-mass-reading-podcast-for-december-5-2023.mp3",
     "audioMP3Date": "Tuesday, December 5, 2023"
   },
   {
     "track_id": "340",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/6/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662754278-usccb-readings-daily-mass-reading-podcast-for-december-6-2023.mp3",
     "audioMP3Date": "Wednesday, December 6, 2023"
   },
   {
     "track_id": "341",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/7/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662754356-usccb-readings-daily-mass-reading-podcast-for-december-7-2023.mp3",
     "audioMP3Date": "Thursday, December 7, 2023"
   },
   {
     "track_id": "342",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/8/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662754497-usccb-readings-daily-mass-reading-podcast-for-december-8-2023.mp3",
     "audioMP3Date": "Friday, December 8, 2023"
   },
   {
     "track_id": "343",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/9/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662754575-usccb-readings-daily-mass-reading-podcast-for-december-9-2023.mp3",
     "audioMP3Date": "Saturday, December 9, 2023"
   },
   {
     "track_id": "344",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/10/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662754752-usccb-readings-daily-mass-reading-podcast-for-december-10-2023.mp3",
     "audioMP3Date": "Sunday, December 10, 2023"
   },
   {
     "track_id": "345",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/11/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662755436-usccb-readings-daily-mass-reading-podcast-for-december-11-2023.mp3",
     "audioMP3Date": "Monday, December 11, 2023"
   },
   {
     "track_id": "346",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/12/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662755526-usccb-readings-daily-mass-reading-podcast-for-december-12-2023.mp3",
     "audioMP3Date": "Tuesday, December 12, 2023"
   },
   {
     "track_id": "347",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/13/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662755589-usccb-readings-daily-mass-reading-podcast-for-december-13-2023.mp3",
     "audioMP3Date": "Wednesday, December 13, 2023"
   },
   {
     "track_id": "348",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/14/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662755673-usccb-readings-daily-mass-reading-podcast-for-december-14-2023.mp3",
     "audioMP3Date": "Thursday, December 14, 2023"
   },
   {
     "track_id": "349",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/15/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662755763-usccb-readings-daily-mass-reading-podcast-for-december-15-2023.mp3",
     "audioMP3Date": "Friday, December 15, 2023"
   },
   {
     "track_id": "350",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/16/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662755832-usccb-readings-daily-mass-reading-podcast-for-december-16-2023.mp3",
     "audioMP3Date": "Saturday, December 16, 2023"
   },
   {
     "track_id": "351",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/17/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662755892-usccb-readings-daily-mass-reading-podcast-for-december-17-2023.mp3",
     "audioMP3Date": "Sunday, December 17, 2023"
   },
   {
     "track_id": "352",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/18/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662756003-usccb-readings-daily-mass-reading-podcast-for-december-18-2023.mp3",
     "audioMP3Date": "Monday, December 18, 2023"
   },
   {
     "track_id": "353",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/19/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662756099-usccb-readings-daily-mass-reading-podcast-for-december-19-2023.mp3",
     "audioMP3Date": "Tuesday, December 19, 2023"
   },
   {
     "track_id": "354",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/20/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662756267-usccb-readings-daily-mass-reading-podcast-for-december-20-2023.mp3",
     "audioMP3Date": "Wednesday, December 20, 2023"
   },
   {
     "track_id": "355",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/21/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662756750-usccb-readings-daily-mass-reading-podcast-for-december-21-2023.mp3",
     "audioMP3Date": "Thursday, December 21, 2023"
   },
   {
     "track_id": "356",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/22/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662756864-usccb-readings-daily-mass-reading-podcast-for-december-22-2023.mp3",
     "audioMP3Date": "Friday, December 22, 2023"
   },
   {
     "track_id": "357",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/23/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662756909-usccb-readings-daily-mass-reading-podcast-for-december-23-2023.mp3",
     "audioMP3Date": "Saturday, December 23, 2023"
   },
   {
     "track_id": "358",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/24/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662757005-usccb-readings-daily-mass-reading-podcast-for-december-24-2023.mp3",
     "audioMP3Date": "Sunday, December 24, 2023"
   },
   {
     "track_id": "359",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/25/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662757554-usccb-readings-daily-mass-reading-podcast-for-december-25-2023-day.mp3",
     "audioMP3Date": "Monday, December 25, 2023"
   },
   {
     "track_id": "360",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/26/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662757740-usccb-readings-daily-mass-reading-podcast-for-december-26-2023.mp3",
     "audioMP3Date": "Tuesday, December 26, 2023"
   },
   {
     "track_id": "361",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/27/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662757800-usccb-readings-daily-mass-reading-podcast-for-december-27-2023.mp3",
     "audioMP3Date": "Wednesday, December 27, 2023"
   },
   {
     "track_id": "362",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/28/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662757908-usccb-readings-daily-mass-reading-podcast-for-december-28-2023.mp3",
     "audioMP3Date": "Thursday, December 28, 2023"
   },
   {
     "track_id": "363",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/29/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662758025-usccb-readings-daily-mass-reading-podcast-for-december-29-2023.mp3",
     "audioMP3Date": "Friday, December 29, 2023"
   },
   {
     "track_id": "364",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/30/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662758148-usccb-readings-daily-mass-reading-podcast-for-december-30-2023.mp3",
     "audioMP3Date": "Saturday, December 30, 2023"
   },
   {
     "track_id": "365",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "12/31/2023",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1662758256-usccb-readings-daily-mass-reading-podcast-for-december-31-2023.mp3",
     "audioMP3Date": "Sunday, December 31, 2023"
   },
   {
