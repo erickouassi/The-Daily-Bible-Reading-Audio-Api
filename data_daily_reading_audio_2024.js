@@ -1,5 +1,4 @@
 //Current Year Data
-/** Data List*/
 const dailyReadingAudio = [
   {
     "track_id": "1",
