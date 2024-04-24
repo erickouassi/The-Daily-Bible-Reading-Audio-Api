@@ -852,217 +852,217 @@ const dailyReadingAudio = [
     "track_id": "122",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/1/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803131217-usccb-readings-daily-mass-reading-podcast-for-may-1-2024.mp3",
     "audioMP3Date": "Wednesday, May 1, 2024"
   },
   {
     "track_id": "123",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/2/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803131826-usccb-readings-daily-mass-reading-podcast-for-may-2-2024.mp3",
     "audioMP3Date": "Thursday, May 2, 2024"
   },
   {
     "track_id": "124",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/3/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803131970-usccb-readings-daily-mass-reading-podcast-for-may-3-2024.mp3",
     "audioMP3Date": "Friday, May 3, 2024"
   },
   {
     "track_id": "125",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/4/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803132309-usccb-readings-daily-mass-reading-podcast-for-may-4-2024.mp3",
     "audioMP3Date": "Saturday, May 4, 2024"
   },
   {
     "track_id": "126",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/5/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803132603-usccb-readings-daily-mass-reading-podcast-for-may-5-2024.mp3",
     "audioMP3Date": "Sunday, May 5, 2024"
   },
   {
     "track_id": "127",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/6/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803133095-usccb-readings-daily-mass-reading-podcast-for-may-6-2024.mp3",
     "audioMP3Date": "Monday, May 6, 2024"
   },
   {
     "track_id": "128",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/7/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803133506-usccb-readings-daily-mass-reading-podcast-for-may-7-2024.mp3",
     "audioMP3Date": "Tuesday, May 7, 2024"
   },
   {
     "track_id": "129",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/8/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803133803-usccb-readings-daily-mass-reading-podcast-for-may-8-2024.mp3",
     "audioMP3Date": "Wednesday, May 8, 2024"
   },
   {
     "track_id": "130",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/9/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803134214-usccb-readings-daily-mass-reading-podcast-for-may-9-2024-day.mp3",
     "audioMP3Date": "Thursday, May 9, 2024"
   },
   {
     "track_id": "131",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/10/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803134343-usccb-readings-daily-mass-reading-podcast-for-may-10-2024.mp3",
     "audioMP3Date": "Friday, May 10, 2024"
   },
   {
     "track_id": "132",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/11/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803135633-usccb-readings-daily-mass-reading-podcast-for-may-11-2024.mp3",
     "audioMP3Date": "Saturday, May 11, 2024"
   },
   {
     "track_id": "133",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/12/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803135999-usccb-readings-daily-mass-reading-podcast-for-may-12-2024-seventh-sunday.mp3",
     "audioMP3Date": "Sunday, May 12, 2024"
   },
   {
     "track_id": "134",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/13/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803136434-usccb-readings-daily-mass-reading-podcast-for-may-13-2024.mp3",
     "audioMP3Date": "Monday, May 13, 2024"
   },
   {
     "track_id": "135",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/14/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803137508-usccb-readings-daily-mass-reading-podcast-for-may-14-2024.mp3",
     "audioMP3Date": "Tuesday, May 14, 2024"
   },
   {
     "track_id": "136",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/15/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803137919-usccb-readings-daily-mass-reading-podcast-for-may-15-2024.mp3",
     "audioMP3Date": "Wednesday, May 15, 2024"
   },
   {
     "track_id": "137",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/16/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803138027-usccb-readings-daily-mass-reading-podcast-for-may-16-2024.mp3",
     "audioMP3Date": "Thursday, May 16, 2024"
   },
   {
     "track_id": "138",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/17/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803138108-usccb-readings-daily-mass-reading-podcast-for-may-17-2024.mp3",
     "audioMP3Date": "Friday, May 17, 2024"
   },
   {
     "track_id": "139",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/18/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803138282-usccb-readings-daily-mass-reading-podcast-for-may-18-2024.mp3",
     "audioMP3Date": "Saturday, May 18, 2024"
   },
   {
     "track_id": "140",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/19/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803139038-usccb-readings-daily-mass-reading-podcast-for-may-19-2024-day.mp3",
     "audioMP3Date": "Sunday, May 19, 2024"
   },
   {
     "track_id": "141",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/20/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803139149-usccb-readings-daily-mass-reading-podcast-for-may-20-2024.mp3",
     "audioMP3Date": "Monday, May 20, 2024"
   },
   {
     "track_id": "142",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/21/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803139338-usccb-readings-daily-mass-reading-podcast-for-may-21-2024.mp3",
     "audioMP3Date": "Tuesday, May 21, 2024"
   },
   {
     "track_id": "143",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/22/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803139620-usccb-readings-daily-mass-reading-podcast-for-may-22-2024.mp3",
     "audioMP3Date": "Wednesday, May 22, 2024"
   },
   {
     "track_id": "144",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/23/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803140172-usccb-readings-daily-mass-reading-podcast-for-may-23-2024.mp3",
     "audioMP3Date": "Thursday, May 23, 2024"
   },
   {
     "track_id": "145",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/24/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803140316-usccb-readings-daily-mass-reading-podcast-for-may-24-2024.mp3",
     "audioMP3Date": "Friday, May 24, 2024"
   },
   {
     "track_id": "146",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/25/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803140487-usccb-readings-daily-mass-reading-podcast-for-may-25-2024.mp3",
     "audioMP3Date": "Saturday, May 25, 2024"
   },
   {
     "track_id": "147",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/26/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803140595-usccb-readings-daily-mass-reading-podcast-for-may-26-2024.mp3",
     "audioMP3Date": "Sunday, May 26, 2024"
   },
   {
     "track_id": "148",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/27/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803140850-usccb-readings-daily-mass-reading-podcast-for-may-27-2024.mp3",
     "audioMP3Date": "Monday, May 27, 2024"
   },
   {
     "track_id": "149",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/28/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803141147-usccb-readings-daily-mass-reading-podcast-for-may-28-2024.mp3",
     "audioMP3Date": "Tuesday, May 28, 2024"
   },
   {
     "track_id": "150",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/29/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803141519-usccb-readings-daily-mass-reading-podcast-for-may-29-2024.mp3",
     "audioMP3Date": "Wednesday, May 29, 2024"
   },
   {
     "track_id": "151",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/30/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803141636-usccb-readings-daily-mass-reading-podcast-for-may-30-2024.mp3",
     "audioMP3Date": "Thursday, May 30, 2024"
   },
   {
     "track_id": "152",
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "5/31/2024",
-    "audioMP3Link": "",
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/1803141786-usccb-readings-daily-mass-reading-podcast-for-may-31-2024.mp3",
     "audioMP3Date": "Friday, May 31, 2024"
   },
   {
