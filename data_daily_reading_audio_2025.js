@@ -418,217 +418,217 @@ const dailyReadingAudio = [
     "track_id": 60,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/1/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033377292-usccb-readings-daily-mass-reading-254716745.mp3",
     "audioMP3Date": "Saturday, March 1, 2025"
   },
   {
     "track_id": 61,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/2/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033382316-usccb-readings-daily-mass-reading-318094081.mp3",
     "audioMP3Date": "Sunday, March 2, 2025"
   },
   {
     "track_id": 62,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/3/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033385320-usccb-readings-daily-mass-reading-226122268.mp3",
     "audioMP3Date": "Monday, March 3, 2025"
   },
   {
     "track_id": 63,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/4/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033395804-usccb-readings-daily-mass-reading-981997841.mp3",
     "audioMP3Date": "Tuesday, March 4, 2025"
   },
   {
     "track_id": 64,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/5/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033406452-usccb-readings-daily-mass-reading-73913943.mp3",
     "audioMP3Date": "Wednesday, March 5, 2025"
   },
   {
     "track_id": 65,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/6/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033412504-usccb-readings-daily-mass-reading-781571821.mp3",
     "audioMP3Date": "Thursday, March 6, 2025"
   },
   {
     "track_id": 66,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/7/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033413688-usccb-readings-daily-mass-reading-880292962.mp3",
     "audioMP3Date": "Friday, March 7, 2025"
   },
   {
     "track_id": 67,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/8/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033414664-usccb-readings-daily-mass-reading-849858112.mp3",
     "audioMP3Date": "Saturday, March 8, 2025"
   },
   {
     "track_id": 68,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/9/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033416360-usccb-readings-daily-mass-reading-965151074.mp3",
     "audioMP3Date": "Sunday, March 9, 2025"
   },
   {
     "track_id": 69,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/10/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033417728-usccb-readings-daily-mass-reading-46988425.mp3",
     "audioMP3Date": "Monday, March 10, 2025"
   },
   {
     "track_id": 70,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/11/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033421248-usccb-readings-daily-mass-reading-74971267.mp3",
     "audioMP3Date": "Tuesday, March 11, 2025"
   },
   {
     "track_id": 71,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/12/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033422820-usccb-readings-daily-mass-reading-25584292.mp3",
     "audioMP3Date": "Wednesday, March 12, 2025"
   },
   {
     "track_id": 72,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/13/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033424824-usccb-readings-daily-mass-reading-59239584.mp3",
     "audioMP3Date": "Thursday, March 13, 2025"
   },
   {
     "track_id": 73,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/14/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033425760-usccb-readings-daily-mass-reading-271123647.mp3",
     "audioMP3Date": "Friday, March 14, 2025"
   },
   {
     "track_id": 74,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/15/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033426948-usccb-readings-daily-mass-reading-894250701.mp3",
     "audioMP3Date": "Saturday, March 15, 2025"
   },
   {
     "track_id": 75,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/16/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033428360-usccb-readings-daily-mass-reading-78686188.mp3",
     "audioMP3Date": "Sunday, March 16, 2025"
   },
   {
     "track_id": 76,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/17/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033429680-usccb-readings-daily-mass-reading-906100637.mp3",
     "audioMP3Date": "Monday, March 17, 2025"
   },
   {
     "track_id": 77,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/18/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033430880-usccb-readings-daily-mass-reading-571121036.mp3",
     "audioMP3Date": "Tuesday, March 18, 2025"
   },
   {
     "track_id": 78,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/19/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033432028-usccb-readings-daily-mass-reading-461100608.mp3",
     "audioMP3Date": "Wednesday, March 19, 2025"
   },
   {
     "track_id": 79,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/20/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033433304-usccb-readings-daily-mass-reading-256534263.mp3",
     "audioMP3Date": "Thursday, March 20, 2025"
   },
   {
     "track_id": 80,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/21/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033435952-usccb-readings-daily-mass-reading-845716378.mp3",
     "audioMP3Date": "Friday, March 21, 2025"
   },
   {
     "track_id": 81,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/22/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033436920-usccb-readings-daily-mass-reading-855638851.mp3",
     "audioMP3Date": "Saturday, March 22, 2025"
   },
   {
     "track_id": 82,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/23/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033439852-usccb-readings-daily-mass-reading-242698638.mp3",
     "audioMP3Date": "Sunday, March 23, 2025"
   },
   {
     "track_id": 83,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/24/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033441592-usccb-readings-daily-mass-reading-721101685.mp3",
     "audioMP3Date": "Monday, March 24, 2025"
   },
   {
     "track_id": 84,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/25/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033442456-usccb-readings-daily-mass-reading-234565735.mp3",
     "audioMP3Date": "Tuesday, March 25, 2025"
   },
   {
     "track_id": 85,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/26/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033443760-usccb-readings-daily-mass-reading-492273970.mp3",
     "audioMP3Date": "Wednesday, March 26, 2025"
   },
   {
     "track_id": 86,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/27/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033444756-usccb-readings-daily-mass-reading-777201836.mp3",
     "audioMP3Date": "Thursday, March 27, 2025"
   },
   {
     "track_id": 87,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/28/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033445524-usccb-readings-daily-mass-reading-207164104.mp3",
     "audioMP3Date": "Friday, March 28, 2025"
   },
   {
     "track_id": 88,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/29/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033446368-usccb-readings-daily-mass-reading-960239162.mp3",
     "audioMP3Date": "Saturday, March 29, 2025"
   },
   {
     "track_id": 89,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/30/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033450096-usccb-readings-daily-mass-reading-779365431.mp3",
     "audioMP3Date": "Sunday, March 30, 2025"
   },
   {
     "track_id": 90,
     "audioAuthor": "USCCB Daily Readings ",
     "audioDate": "3/31/2025",
-    "audioMP3Link": 0,
+    "audioMP3Link": "https://feeds.soundcloud.com/stream/2033451768-usccb-readings-daily-mass-reading-234518621.mp3",
     "audioMP3Date": "Monday, March 31, 2025"
   },
   {
