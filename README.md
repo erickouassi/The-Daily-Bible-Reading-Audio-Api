@@ -1,6 +1,6 @@
 # 🙏 Daily Prayer API (Based on USCCB RSS Feed)
 
-This repository provides a simple and clean **API version of the daily Catholic prayers**, originally from the USCCB RSS feed. The data is manually updated every month into a lightweight JSON format for easy use in web and mobile projects.
+This repository provides a simple and clean **API version of the daily Catholic prayers**, originally from the USCCB RSS feed (http://feeds.feedburner.com/usccb/zhqs). The data is manually updated monthly into a lightweight JSON format for easy use in web and mobile projects.
 
 My family and friends have been using the web app built with this API to start their mornings in prayer—and now you can too!
 
