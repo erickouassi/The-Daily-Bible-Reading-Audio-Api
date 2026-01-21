@@ -1,6 +1,6 @@
 //const data = require("./data");
 // Change the year ..._audio_20XX
-const data = require("./data_daily_reading_audio_2025");
+const data = require("./data_daily_reading_audio_2026");
 //const data = require("./data_temp");
 
 // Logic behind the functionalities
